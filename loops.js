@@ -7,8 +7,7 @@ function forLoop (array) {
       array.push("")
     }
     }
-  console.log("I am ${i} strange loops."+i+"time");
-  }
+  console.log
 
 
 
