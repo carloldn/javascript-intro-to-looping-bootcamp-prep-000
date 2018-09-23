@@ -8,13 +8,13 @@ function forLoop(array) {
   }
   return array;
 }
-function whileLoop (35) {
- while (countdown>0) {
-    console.log(-- countdown);
+function whileLoop(35) {
+  let countdown = 35;
+     while (countdown > 0) {
+      console.log(--countdown)
+    }
+    return "done";
   }
-}
-return done;}
-
 
 
 
