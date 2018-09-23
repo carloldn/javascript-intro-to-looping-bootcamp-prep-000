@@ -8,8 +8,11 @@ function forLoop(array) {
   }
   return array;
 }
-
-
+function whileLoop (35) {
+ while (countdown>0) {
+    console.log(-- countdown);
+  }
+}
 
 
 
