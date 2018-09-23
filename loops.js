@@ -4,10 +4,10 @@ function forLoop (array) {
       array.push("I am 1 strange loop")
     }
     else (i===0); {
-      array.push("I am ${i} strange loop$.");
+      array.push("I am ${i} strange loop.");
   }
 }
-return array;}
+return (array);}
 
 
 
