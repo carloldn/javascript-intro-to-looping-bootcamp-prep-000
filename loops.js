@@ -3,6 +3,10 @@ function forLoop (array) {
     if (i===1) {
       array.push("I am 1 strange loop")
     }
+    else (i===0) {
+      array.push("")
+    }
+    }
   console.log("I am ${i} strange loops."+i+"time");
   }
 
