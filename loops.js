@@ -16,9 +16,9 @@ function whileLoop(n) {
     return "done";
   }
 function doWhileLoop(array) {
-  function incrementVariable() {
+  function maybeTrue() {
    
-  } while (array.length > 0 && maybeTrue());
+  } while (array.length > -1 && maybeTrue());
     return array;
 }
 
