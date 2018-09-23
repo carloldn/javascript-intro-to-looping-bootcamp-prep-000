@@ -17,11 +17,8 @@ function whileLoop(n) {
   }
 function doWhileLoop(array) {
   function incrementVariable() {
-    return Math.random() >= 0.5
-  }
-   do {
-    array.pop();
-  } while (array.length > -1 && maybeTrue());
+   
+  } while (array.length > 0 && False());
     return array;
 }
 
